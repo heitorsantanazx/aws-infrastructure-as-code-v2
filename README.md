@@ -2,13 +2,13 @@
 
 Este projeto foi desenvolvido como solução para o desafio proposto no repositório original:
 
-👉 https://github.com/bfeliano/desafio-devops-01-terraform-ec2-iniciante
+👉 https://github.com/bfeliano/desafio-devops-01-terraform-ec2-intermediario
 
 ---
 
 ## Objetivo
 
-Desta vez eu reutilizei a estrutura do meu primeiro projeto, mas fazendo do "module", como forma de me acostumar a boas práticas de organização e melhorar o meu primeiro projeto.
+Desta vez eu reutilizei a estrutura do meu primeiro projeto (Desafio DevOps #1), mas fazendo o uso de "module", como forma de me acostumar a boas práticas de organização e melhorar o meu primeiro projeto.
 
 ---
 
@@ -18,6 +18,7 @@ Desta vez eu reutilizei a estrutura do meu primeiro projeto, mas fazendo do "mod
 * Modules
 * Uso do arquivo .tfvars
 * AMI dinâmica via datasource
+* VPC, EC2 e Security Group
 
 ---
 
